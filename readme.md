@@ -8,7 +8,7 @@ Plot of new cases and new deaths since the begining from the first wave, in log 
 
 ## Last 15 days of new cases :
 
-![deaths](cases_15.jpg)
+![](cases_15.jpg)
 
 ## New cases vs cummulative cases
 
