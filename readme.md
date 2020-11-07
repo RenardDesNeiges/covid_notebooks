@@ -9,7 +9,7 @@ Plot of new cases and new deaths since the begining from the first wave, in log 
 ## Hospitalizations
 ![hosp_deaths](hosp_deaths.jpg)
 
-## Last 15 days of new cases :
+## Last days of new cases :
 
 ![](cases_15.jpg)
 
